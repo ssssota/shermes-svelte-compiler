@@ -1,0 +1,11 @@
+# Hermes
+/hermes/.circleci
+/hermes/.claude
+/hermes/.devcontainer
+/hermes/.github
+/hermes/benchmarks
+/hermes/doc
+/hermes/examples
+# /hermes/test
+# /hermes/unittests
+/hermes/*.md
